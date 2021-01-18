@@ -1,0 +1,46 @@
+//colors
+
+//green colors 
+$color-primary: hsla(111, 85%, 70%, 0.80); //light-green
+$color-primary-light:  hsl(140, 87%, 70%);// -green
+$color-primary-dark:  hsla(160, 70%, 49%, 0.959);// dark-green
+
+//grey colors
+$color-grey-light-1: hsla(0, 0%, 97%, 0.969);
+$color-grey-dark: hsla(0, 0%, 47%, 0.945);
+$color-grey-light-2:hsla(0, 0%, 93%, 0.993);
+$color-grey-dark-3: hsla(0, 0%, 20%, 0.979);
+
+//white and black colors
+$color-white: hsla(0, 100%, 99%, 0.932);//white
+$color-black: hsla(0, 0%, 5%, 0.973);//black
+
+//orange
+$color-secondary-light: hsl(27, 82%, 70%);
+$color-secondary-dark: hsla(21, 98%, 53%, 0.959);
+
+
+//blue
+$color-tertairy-light: hsl(209, 90%, 70%);
+$color-tertairy-dark: hsla(246, 97%, 55%, 0.623);
+
+
+//GRID system
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-sm : 6rem;
+$gutter-horizontal:6rem;
+
+
+//font 
+
+$default-font-size: 1.6rem;
+
+
+
+
+
+
+//development Purposes
+
+$testing-color : hsla(214, 100%, 50%, 0.719);

@@ -1,2 +1,1 @@
-# Natours
-Adventurous tours
+# Natours-Project
